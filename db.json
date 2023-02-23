@@ -1,9 +1,443 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "shop_women":[
+    {
+      "id":1,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/tops-01_copy.jpg?v=1667987961&width=360",
+      "title":"Tops",
+      "items": "73 items"
+    },
+    {
+      "id":2,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/SBRA2-01.jpg?v=1667988040&width=360",
+      "title":"Sports Bra",
+      "items": "10 items"
+    },
+    {
+      "id":3,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/Tee-01.jpg?v=1667898427&width=360",
+      "title":"T-Shirts",
+      "items": "15 items"
+    },
+    {
+      "id":4,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/shorts_women-01.jpg?v=1667898316&width=360",
+      "title":"Shorts",
+      "items": "22 items"
+    },
+    {
+      "id":5,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/leggings-01.jpg?v=1667899318&width=360",
+      "title":"Leggings",
+      "items": "19 items"
+    },
+    {
+      "id":6,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/sweats_women-01.jpg?v=1667898406&width=360",
+      "title":"Sweatshirts",
+      "items": "13 items"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "shop_men":[
+    {
+      "id":1,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/ball_sweatshirt-01.jpg?v=1668170499&width=360",
+      "title":"Sweatshirts",
+      "items": "61 items"
+    },
+    {
+      "id":2,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/unisex_accessories-01.jpg?v=1668170734&width=360",
+      "title":"Accessories",
+      "items": "9 items"
+    },
+    {
+      "id":3,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/Untitled-6-01.jpg?v=1667985899&width=360",
+      "title":"T-Shirts",
+      "items": "66 items"
+    },
+    {
+      "id":4,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/KOOVS_20OCT22-1025.jpg?v=1667897521&width=360",
+      "title":"Jackets",
+      "items": "21 items"
+    },
+    {
+      "id":5,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/KOOVS_20OCT22-0291.jpg?v=1667985664&width=360",
+      "title":"Pants",
+      "items": "18 items"
+    },
+    {
+      "id":6,
+      "image":"https://cdn.shopify.com/s/files/1/0677/1464/6315/files/shortsn-01.jpg?v=1667897412&width=360",
+      "title":"Shorts",
+      "items": "27 items"
+    }
   ],
-  "profile": { "name": "typicode" }
+  "varsity-jackets":[
+    {
+      "id":1,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2202BLUE0361_800x_97dbc06c-0d25-4317-8084-ec6395e1f7a1.webp?v=1671193628&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2202BLUE0368_1600x_b8d04acd-6cc4-4a03-aeb3-a7bf0a2c229e.webp?v=1677043616&width=360",
+      "title1":"THE COUTURE CLUB",
+      "title2":"Distorted Smile Varsity Jacket - Yellow",
+      "price1": 7000,
+      "price2": 1000,
+      "color": "yellow"
+    },
+    {
+      "id":2,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/HEARTMULTIBADGEVARSITYJACKET-GREEN2_800x_deb2ced1-7f5f-4db5-b0c3-5dfa87e8432c.webp?v=1671193716&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/Selects12396_800x_jpg.webp?v=1677042743&width=360",
+      "title1":"THE COUTURE CLUB",
+      "title2":"Heart Multi Badge Varsity Jacket - Green",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "green"
+    },
+    {
+      "id":3,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/T3M21-10GREEN_b_800x_07c40885-d4fb-4c9b-87bf-2863cc823c4c.jpg?v=1671193412&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/T3M21-10GREEN_d_800x_60d66828-31a2-4032-95ad-50db48a5360e.jpg?v=1677043853&width=360",
+      "title1":"THE COUTURE CLUB",
+      "title2":"College Green Varsity Bomber Jacket - Green",
+      "price1": 7420,
+      "price2": 10000,
+      "color": "green"
+    },
+    {
+      "id":4,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1012_800x_ae4006da-33a3-4045-a25f-3a102190576c.jpg?v=1671193508&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1018_800x_4b394419-e80a-4551-bfc4-b4bc53dcce79.jpg?v=1677043773&width=360",
+      "title1":"THE COUTURE CLUB",
+      "title2":"Couture Applique Varsity Bomber - Black",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "black"
+    },
+    {
+      "id":5,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/EmptyName_b_800x_38bd8e73-b704-47d2-a977-4c998cc8ec68.webp?v=1671193746&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/EmptyName_a_2667x_c73a3579-268b-4318-b350-7efb4b3000d1.webp?v=1677043645&width=360",
+      "title1":"THE COUTURE CLUB",
+      "title2":"Laurel Panelled Varsity Jacket - Purple",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "purpel"
+    },
+    {
+      "id":6,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2131BLACK9500_800x_dcd74665-ab71-4430-8742-e965d03a282e.webp?v=1671193543&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM2131BLACK9498_800x_4c0f2989-948b-414f-9258-b5981bf60e44.webp?v=1677043674&width=360",
+      "title1":"THE COUTURE CLUB",
+      "title2":"Ctre Fur Logo Oversized Hooded Jacket - Red",
+      "price1": 7420,
+      "price2": 10000,
+      "color": "red"
+    }
+  ],
+  "artist-collab":[
+    {
+      "id":1,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_6420a0b9-a9ed-4fc8-81ca-d0e54c1a1a4f.png?v=1675427632&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/closeup_a0250254-fc90-472a-94b3-7b38b4049f63.png?v=1677041300&width=360",
+      "title1":"KOOVS",
+      "title2":"Never Let You Go T-shirt",
+      "price":  1690,
+      "color1": "green",
+      "color2":"blue"
+    },
+    {
+      "id":2,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_53c43c07-fbf4-41d7-b20e-d6097057ed89.png?v=1677043087&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flying_1.png?v=1677043087&width=360",
+      "title1":"KOOVS",
+      "title2":"Never Let You Go T-shirt",
+      "price":  1690,
+      "color1": "green",
+      "color2":"blue"
+    },
+    {
+      "id":3,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd.png?v=1677043146&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd.png?v=1677043146&width=493",
+      "title1":"KOOVS",
+      "title2":"Orange Soda Gang Hoodie",
+      "price":  2290,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":4,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_2_bf17fe24-20eb-4458-a04a-e1f5a985f181.png?v=1677043312&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_3.png?v=1677043312&width=360",
+      "title1":"KOOVS",
+      "title2":"Never Lechewgo Sweatshirt",
+      "price":  2290,
+      "color1": "wheat",
+      "color2":"black"
+    },
+    {
+      "id":5,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_1_91543a85-00db-43f8-b0e6-f00e21e7aab4.png?v=1675423741&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_9e1d286b-32fa-4204-a14a-f15dba09be17.png?v=1677041533&width=360",
+      "title1":"KOOVS",
+      "title2":"Never Lechewgo Sweatshirt",
+      "price":  2290,
+      "color1": "wheat",
+      "color2":"black"
+    },
+    {
+      "id":6,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_3ff1bfa4-bfa9-4dfa-ae9a-88e16c339e49.png?v=1677043660&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flyingback_3d572401-a899-4de8-be0e-304151a6475c.png?v=1677043660&width=493",
+      "title1":"THE COUTURE CLUB",
+      "title2":"Say Yes to Nugs T-shirt",
+      "price":  1890,
+      "color1": "pink",
+      "color2":"white"
+    },
+    {
+      "id":7,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backpsd_d8f1651e-7cc0-4467-a68d-652c579722c2.png?v=1677043660&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flyingoption2_0ffb810e-c4d4-4e87-9dfe-3810dd32919d.jpg?v=1677043656&width=360",
+      "title1":"KOOVS",
+      "title2":"Say Yes to Nugs T-shirt",
+      "price":  1890,
+      "color1": "pink",
+      "color2":"white"
+    },
+    {
+      "id":8,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_d96474c0-bd55-41ce-8d38-7e13404dbd3b.png?v=1675420104&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_92b1687d-3727-4557-b093-cd4d5c09138a.png?v=1677043859&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless My Feed Hoodie",
+      "price":  1290,
+      "color1": "blue",
+      "color2":"white"
+    },
+    {
+      "id":9,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_2PSD.png?v=1675425175&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/latestpsd2.png?v=1677041914&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless My Feed T-shirt (Sushi)",
+      "price":  1690,
+      "color1": "white",
+      "color2":"blue"
+    },
+    {
+      "id":10,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_ac6bf522-8e1b-45a0-b7cc-5b124b54f60e.png?v=1677043959&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flying_1_81a09db1-3be4-43c4-9a50-cd61742b9f6b.png?v=1677043959&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless My Feed T-shirt (Sushi)",
+      "price":  1690,
+      "color1": "white",
+      "color2":"blue"
+    },
+    {
+      "id":11,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_85ec7ddc-c341-4429-8f32-8b17e9561aab.png?v=1675425990&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backlightying_1psd.png?v=1677042084&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless My Feed Coin T-shirt",
+      "price":  7000,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":12,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/product2400x3200_9a85da36-50f0-4368-8570-aad4dc3eeb26.png?v=1675426440&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back2400x3200.png?v=1677042187&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless My Feed Coin All Over Print T-Shirt",
+      "price":  1890,
+      "color1": "yellow",
+      "color2":"white"
+    },
+    {
+      "id":13,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_psd.png?v=1675425798&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backlightying_1psd_9c76c5be-32fc-476d-a7f9-ef39561d870d.png?v=1677042269&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless My Feed T-shirt",
+      "price":  1690,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":14,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_c7f744e0-892f-4a5d-ba5f-9c74fce122b4.png?v=1675424882&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_1.png?v=1677042359&width=360",
+      "title1":"KOOVS",
+      "title2":"Gram Worthy Shorts",
+      "price":  1690,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":15,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_61be0d16-ddd6-477e-8c80-6b947e42b050.png?v=1675424704&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_61be0d16-ddd6-477e-8c80-6b947e42b050.png?v=1675424704&width=360",
+      "title1":"KOOVS",
+      "title2":"Gram Worthy T-shirt",
+      "price":  1690,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":16,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1.png?v=1677044552&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_b6c5f54b-afa7-436c-931c-da3d9ae65ef0.png?v=1677044552&width=360",
+      "title1":"KOOVS",
+      "title2":"Salty Sprinkle Sweatshirt",
+      "price": 2290,
+      "color1": "orange",
+      "color2":"blue"
+    },
+    {
+      "id":17,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_04e1bf40-f055-48b2-a180-e140967cfb2e.png?v=1677044552&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_3f27dcad-008b-42ca-be32-475a41031806.png?v=1677044552&width=360",
+      "title1":"KOOVS",
+      "title2":"Salty Sprinkle Sweatshirt",
+      "price":  2290,
+      "color1": "orange",
+      "color2":"blue"
+    },
+    {
+      "id":18,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_c3ed41d7-8a48-40b6-b7d2-033adcc269f3.png?v=1675419377&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_1_d551e687-c2a8-426d-bb72-3b9d461cf0e2.png?v=1677044692&width=360",
+      "title1":"KOOVS",
+      "title2":"Gram Worthy Sweatshirt",
+      "price":  1890,
+      "color1": "green",
+      "color2":"pink"
+    },
+    {
+      "id":19,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_2.png?v=1677044692&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_2.png?v=1677044692&width=360",
+      "title1":"KOOVS",
+      "title2":"Gram Worthy Sweatshirt",
+      "price":  1890,
+      "color1": "green",
+      "color2":"pink"
+    },
+    {
+      "id":20,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_4802bc7f-e4d1-4183-9bbb-7916ec34c27e.png?v=1677044692&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_c5a2ee79-c0f2-4212-a246-0f9e77bfc21a.png?v=1677044686&width=360",
+      "title1":"KOOVS",
+      "title2":"Gram Worthy Sweatshirt",
+      "price":  1890,
+      "color1": "green",
+      "color2":"pink"
+    },
+    {
+      "id":21,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_80309427-1cff-4cc6-9c63-8bd251926118.png?v=1676442989&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back.jpg?v=1677033749&width=360",
+      "title1":"KOOVS",
+      "title2":"Say Yes to Nugs Cap",
+      "price":  990,
+      "color1": "oranga",
+      "color2":"white"
+    },
+    {
+      "id":22,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_2c80b701-3c8a-48bc-b4eb-9c4727e990e9.png?v=1676442568&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back.png?v=1677033793&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless my feed Coin Bucket Hat",
+      "price":  1490,
+      "color1": "brown",
+      "color2":"white"
+    },
+    {
+      "id":23,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd_ef25a683-1bbb-4b1a-b4d9-c22517759c8a.png?v=1676442052&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backpsd.png?v=1677033826&width=360",
+      "title1":"KOOVS",
+      "title2":"Gram Worthy Bucket Hat",
+      "price":  1490,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":24,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd_90109ddb-a6fc-4517-b5ea-192439d7d28e.png?v=1676441543&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_338ab78f-b803-4de4-b447-65eadcee66e5.png?v=1677033862&width=360",
+      "title1":"KOOVS",
+      "title2":"Never Lechewgo Baseball cap",
+      "price":  990,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":25,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1psd.png?v=1676441665&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backpsd_9fbda974-6878-43d8-a527-254f389ccf37.png?v=1677033906&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless my feed Pin",
+      "price":  1290,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":26,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front.png?v=1676459089&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/foldedpsd.png?v=1677033938&width=360",
+      "title1":"KOOVS",
+      "title2":"Unfortunate Cookie Pin",
+      "price":  790,
+      "color1": "green",
+      "color2":"white"
+    },
+    {
+      "id":27,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_97df7d86-c2c4-4e2a-a4dd-24417b5c67fb.png?v=1676533813&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/foldedpsd_a8cb0ba0-203d-42a9-a376-533187a61220.png?v=1677033970&width=360",
+      "title1":"KOOVS",
+      "title2":"Bless my feed Pin",
+      "price":  790,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":28,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1012_800x_ae4006da-33a3-4045-a25f-3a102190576c.jpg?v=1671193508&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1018_800x_4b394419-e80a-4551-bfc4-b4bc53dcce79.jpg?v=1677043773&width=360",
+      "title1":"KOOVS",
+      "title2":"Couture Applique Varsity Bomber - Black",
+      "price":  7000,
+      "color1": "black",
+      "color2":"blue"
+    },
+    {
+      "id":29,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_ffd0e58e-9261-463e-bde4-43f2e7bca71d.png?v=1676534029&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/foldedpsd_994a1f4f-149a-4672-b1e7-82752013beae.png?v=1677034003&width=360",
+      "title1":"KOOVS",
+      "title2":"Never Lechewgo Pin",
+      "price":  790,
+      "color1": "white",
+      "color2":"white"
+    },
+    {
+      "id":30,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_a5ba20c2-c9b6-48d3-baf5-0a7421d7b970.png?v=1676534234&width=360",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1psd_317e6149-ecce-4f2d-86c0-53f226b1e896.png?v=1677034045&width=360",
+      "title1":"KOOVS",
+      "title2":"Gram worthy Pin",
+      "price":  590,
+      "color1": "white",
+      "color2":"white"
+    }
+  ]
+  
 }
