@@ -83,7 +83,7 @@
       "title1":"THE COUTURE CLUB",
       "title2":"Distorted Smile Varsity Jacket - Yellow",
       "price1": 7000,
-      "price2": 1000,
+      "price2": 10000,
       "color": "yellow"
     },
     {
@@ -437,6 +437,170 @@
       "price":  590,
       "color1": "white",
       "color2":"white"
+    }
+  ],
+  "koovs-women":[
+    {
+      "id":1,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3336-200.jpg?v=1668068295&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3344-203.jpg?v=1677061173&width=493",
+      "title1":"Extreme Sport Tank Top Black",
+      "title2":"Cropped Tank Top Crew Neck Racer Back Placement",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "yellow"
+    },
+    {
+      "id":2,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3429-243.jpg?v=1668171235&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3425-242.jpg?v=1677061638&width=493",
+      "title1":"Sunshine Soul Hoodie",
+      "title2":"Relax Fit Hoodie Rib Finish at the Hemlines Kangaroo",
+      "price1": 7000,
+      "price2": 10000,
+      "color": "green"
+    },
+    {
+      "id":3,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3259-163.jpg?v=1668067639&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3266-165.jpg?v=1677061418&width=493",
+      "title1":"Race Club Baby Tee Off White",
+      "title2":"Cropped Baby Tee Crew Neck Constrast",
+      "price1": 690,
+      "price2": 1000,
+      "color": "green"
+    },
+    {
+      "id":4,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3282-173.jpg?v=1668067773&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3293-178.jpg?v=1677061911&width=493",
+      "title1":"Super Cars Hoodie Lilac",
+      "title2":"Relax Fit Hoodie Drop shoulder Rib Finish",
+      "price1": 1290,
+      "price2": 2000,
+      "color": "black"
+    },
+    {
+      "id":5,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3610-322.jpg?v=1668075010&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3617-325.jpg?v=1677061276&width=493",
+      "title1":"Psychedelic Dreams Tank Top",
+      "title2":"Cropped Tank Top Crew Neck Racer",
+      "price1": 690,
+      "price2": 1000,
+      "color": "purpel"
+    },
+    {
+      "id":6,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3354-208.jpg?v=1668068454&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3361-211.jpg?v=1677061782&width=493",
+      "title1":"Sunshine Soul Oversized Crop Top",
+      "title2":"Oversized Cropped Top Round Neck",
+      "price1": 790,
+      "price2": 1000,
+      "color": "red"
+    },
+    {
+      "id":7,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3496-273.jpg?v=1668074409&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3500-275.jpg?v=1677062239&width=493",
+      "title1":"Tobasco Sweatshirt Green",
+      "title2":"Oversized Sweatshirt Round Neck",
+      "price1": 990,
+      "price2": 2000,
+      "color": "red"
+    },
+    {
+      "id":8,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3447-254.jpg?v=1668074003&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-3454-256.jpg?v=1677061842&width=493",
+      "title1":"Super Cars Crop Top Black",
+      "title2":"Oversized Cropped Top Round Neck",
+      "price1": 790,
+      "price2": 1000,
+      "color": "red"
+    }
+  ],
+  "koovs-men":[
+    {
+      "id":1,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1533.jpg?v=1667984210&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1536.jpg?v=1677063069&width=493",
+      "title1":"Ned Joggers",
+      "title2":"A relaxed fit jogger with an elasticated",
+      "price1": 1490,
+      "price2": 2000,
+      "color": "yellow"
+    },
+    {
+      "id":2,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1704.jpg?v=1667982774&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1708.jpg?v=1677066450&width=493",
+      "title1":"Albin T-Shirt",
+      "title2":"Elevated raised neck zip up T-shirt.",
+      "price1": 990,
+      "price2": 2000,
+      "color": "green"
+    },
+    {
+      "id":3,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1549.jpg?v=1667983172&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1555.jpg?v=1677064225&width=493",
+      "title1":"Brian T-Shirt",
+      "title2":"Basic fit round neck T-shirt with half sleeves.",
+      "price1": 790,
+      "price2": 1000,
+      "color": "green"
+    },
+    {
+      "id":4,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1070_6d519f9c-e991-4865-ac5f-9668828464b4.jpg?v=1670001642&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-1073.jpg?v=1677066827&width=493",
+      "title1":"Acer Hoodie",
+      "title2":"Elevated relaxed fit hoodie with half zip closure,",
+      "price1": 1490,
+      "price2": 2000,
+      "color": "black"
+    },
+    {
+      "id":5,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0049.jpg?v=1667984517&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0059.jpg?v=1677061640&width=493",
+      "title1":"Reuben Hoodie",
+      "title2":"A classic regular fit hoodie with adjustable",
+      "price1": 1490,
+      "price2": 2000,
+      "color": "purpel"
+    },
+    {
+      "id":6,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0142.jpg?v=1667984128&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0148.jpg?v=1677063344&width=493",
+      "title1":"Luke T-Shirt",
+      "title2":"Basic fit v-neck T-shirt with half sleeves.",
+      "price1": 790,
+      "price2": 1000,
+      "color": "red"
+    },
+    {
+      "id":7,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0978.jpg?v=1677065233&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0982.jpg?v=1677065233&width=493",
+      "title1":"Curtis Sweatshirt",
+      "title2":"A classic regular fit round neck sweatshirt",
+      "price1": 1290,
+      "price2": 2000,
+      "color": "red"
+    },
+    {
+      "id":8,
+      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0444.jpg?v=1667983785&width=493",
+      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/KOOVS_20OCT22-0450.jpg?v=1677063752&width=493",
+      "title1":"Evan T-Shirt",
+      "title2":"Elevated v-neck T-shirt with half zip closure.",
+      "price1": 990,
+      "price2": 1000,
+      "color": "red"
     }
   ]
   
