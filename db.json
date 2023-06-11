@@ -150,36 +150,6 @@
     },
     {
       "id":2,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_53c43c07-fbf4-41d7-b20e-d6097057ed89.png?v=1677043087&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flying_1.png?v=1677043087&width=360",
-      "title1":"KOOVS",
-      "title2":"Never Let You Go T-shirt",
-      "price":  1690,
-      "color1": "green",
-      "color2":"blue"
-    },
-    {
-      "id":3,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd.png?v=1677043146&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd.png?v=1677043146&width=493",
-      "title1":"KOOVS",
-      "title2":"Orange Soda Gang Hoodie",
-      "price":  2290,
-      "color1": "white",
-      "color2":"white"
-    },
-    {
-      "id":4,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_2_bf17fe24-20eb-4458-a04a-e1f5a985f181.png?v=1677043312&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_3.png?v=1677043312&width=360",
-      "title1":"KOOVS",
-      "title2":"Never Lechewgo Sweatshirt",
-      "price":  2290,
-      "color1": "wheat",
-      "color2":"black"
-    },
-    {
-      "id":5,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_1_91543a85-00db-43f8-b0e6-f00e21e7aab4.png?v=1675423741&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_9e1d286b-32fa-4204-a14a-f15dba09be17.png?v=1677041533&width=360",
       "title1":"KOOVS",
@@ -189,7 +159,7 @@
       "color2":"black"
     },
     {
-      "id":6,
+      "id":3,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_3ff1bfa4-bfa9-4dfa-ae9a-88e16c339e49.png?v=1677043660&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flyingback_3d572401-a899-4de8-be0e-304151a6475c.png?v=1677043660&width=493",
       "title1":"THE COUTURE CLUB",
@@ -199,17 +169,7 @@
       "color2":"white"
     },
     {
-      "id":7,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backpsd_d8f1651e-7cc0-4467-a68d-652c579722c2.png?v=1677043660&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flyingoption2_0ffb810e-c4d4-4e87-9dfe-3810dd32919d.jpg?v=1677043656&width=360",
-      "title1":"KOOVS",
-      "title2":"Say Yes to Nugs T-shirt",
-      "price":  1890,
-      "color1": "pink",
-      "color2":"white"
-    },
-    {
-      "id":8,
+      "id":4,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_d96474c0-bd55-41ce-8d38-7e13404dbd3b.png?v=1675420104&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_92b1687d-3727-4557-b093-cd4d5c09138a.png?v=1677043859&width=360",
       "title1":"KOOVS",
@@ -219,7 +179,7 @@
       "color2":"white"
     },
     {
-      "id":9,
+      "id":5,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_2PSD.png?v=1675425175&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/latestpsd2.png?v=1677041914&width=360",
       "title1":"KOOVS",
@@ -229,17 +189,7 @@
       "color2":"blue"
     },
     {
-      "id":10,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_ac6bf522-8e1b-45a0-b7cc-5b124b54f60e.png?v=1677043959&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/flying_1_81a09db1-3be4-43c4-9a50-cd61742b9f6b.png?v=1677043959&width=360",
-      "title1":"KOOVS",
-      "title2":"Bless My Feed T-shirt (Sushi)",
-      "price":  1690,
-      "color1": "white",
-      "color2":"blue"
-    },
-    {
-      "id":11,
+      "id":6,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_85ec7ddc-c341-4429-8f32-8b17e9561aab.png?v=1675425990&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backlightying_1psd.png?v=1677042084&width=360",
       "title1":"KOOVS",
@@ -249,7 +199,7 @@
       "color2":"white"
     },
     {
-      "id":12,
+      "id":7,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/product2400x3200_9a85da36-50f0-4368-8570-aad4dc3eeb26.png?v=1675426440&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back2400x3200.png?v=1677042187&width=360",
       "title1":"KOOVS",
@@ -259,7 +209,7 @@
       "color2":"white"
     },
     {
-      "id":13,
+      "id":8,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_psd.png?v=1675425798&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backlightying_1psd_9c76c5be-32fc-476d-a7f9-ef39561d870d.png?v=1677042269&width=360",
       "title1":"KOOVS",
@@ -269,7 +219,7 @@
       "color2":"white"
     },
     {
-      "id":14,
+      "id":9,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_c7f744e0-892f-4a5d-ba5f-9c74fce122b4.png?v=1675424882&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_1.png?v=1677042359&width=360",
       "title1":"KOOVS",
@@ -279,7 +229,7 @@
       "color2":"white"
     },
     {
-      "id":15,
+      "id":10,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_61be0d16-ddd6-477e-8c80-6b947e42b050.png?v=1675424704&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_61be0d16-ddd6-477e-8c80-6b947e42b050.png?v=1675424704&width=360",
       "title1":"KOOVS",
@@ -289,7 +239,7 @@
       "color2":"white"
     },
     {
-      "id":16,
+      "id":11,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1.png?v=1677044552&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_b6c5f54b-afa7-436c-931c-da3d9ae65ef0.png?v=1677044552&width=360",
       "title1":"KOOVS",
@@ -299,47 +249,7 @@
       "color2":"blue"
     },
     {
-      "id":17,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_04e1bf40-f055-48b2-a180-e140967cfb2e.png?v=1677044552&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_3f27dcad-008b-42ca-be32-475a41031806.png?v=1677044552&width=360",
-      "title1":"KOOVS",
-      "title2":"Salty Sprinkle Sweatshirt",
-      "price":  2290,
-      "color1": "orange",
-      "color2":"blue"
-    },
-    {
-      "id":18,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_c3ed41d7-8a48-40b6-b7d2-033adcc269f3.png?v=1675419377&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_1_d551e687-c2a8-426d-bb72-3b9d461cf0e2.png?v=1677044692&width=360",
-      "title1":"KOOVS",
-      "title2":"Gram Worthy Sweatshirt",
-      "price":  1890,
-      "color1": "green",
-      "color2":"pink"
-    },
-    {
-      "id":19,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_2.png?v=1677044692&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_2.png?v=1677044692&width=360",
-      "title1":"KOOVS",
-      "title2":"Gram Worthy Sweatshirt",
-      "price":  1890,
-      "color1": "green",
-      "color2":"pink"
-    },
-    {
-      "id":20,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_4802bc7f-e4d1-4183-9bbb-7916ec34c27e.png?v=1677044692&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_c5a2ee79-c0f2-4212-a246-0f9e77bfc21a.png?v=1677044686&width=360",
-      "title1":"KOOVS",
-      "title2":"Gram Worthy Sweatshirt",
-      "price":  1890,
-      "color1": "green",
-      "color2":"pink"
-    },
-    {
-      "id":21,
+      "id":12,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_80309427-1cff-4cc6-9c63-8bd251926118.png?v=1676442989&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back.jpg?v=1677033749&width=360",
       "title1":"KOOVS",
@@ -349,7 +259,7 @@
       "color2":"white"
     },
     {
-      "id":22,
+      "id":13,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1_2c80b701-3c8a-48bc-b4eb-9c4727e990e9.png?v=1676442568&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back.png?v=1677033793&width=360",
       "title1":"KOOVS",
@@ -359,7 +269,7 @@
       "color2":"white"
     },
     {
-      "id":23,
+      "id":14,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd_ef25a683-1bbb-4b1a-b4d9-c22517759c8a.png?v=1676442052&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backpsd.png?v=1677033826&width=360",
       "title1":"KOOVS",
@@ -369,7 +279,7 @@
       "color2":"white"
     },
     {
-      "id":24,
+      "id":15,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/frontpsd_90109ddb-a6fc-4517-b5ea-192439d7d28e.png?v=1676441543&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/back_338ab78f-b803-4de4-b447-65eadcee66e5.png?v=1677033862&width=360",
       "title1":"KOOVS",
@@ -379,7 +289,7 @@
       "color2":"white"
     },
     {
-      "id":25,
+      "id":16,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1psd.png?v=1676441665&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/backpsd_9fbda974-6878-43d8-a527-254f389ccf37.png?v=1677033906&width=360",
       "title1":"KOOVS",
@@ -389,7 +299,7 @@
       "color2":"white"
     },
     {
-      "id":26,
+      "id":17,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front.png?v=1676459089&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/foldedpsd.png?v=1677033938&width=360",
       "title1":"KOOVS",
@@ -399,7 +309,7 @@
       "color2":"white"
     },
     {
-      "id":27,
+      "id":18,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_97df7d86-c2c4-4e2a-a4dd-24417b5c67fb.png?v=1676533813&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/foldedpsd_a8cb0ba0-203d-42a9-a376-533187a61220.png?v=1677033970&width=360",
       "title1":"KOOVS",
@@ -409,17 +319,7 @@
       "color2":"white"
     },
     {
-      "id":28,
-      "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1012_800x_ae4006da-33a3-4045-a25f-3a102190576c.jpg?v=1671193508&width=360",
-      "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/TCCM1699-BLACK1018_800x_4b394419-e80a-4551-bfc4-b4bc53dcce79.jpg?v=1677043773&width=360",
-      "title1":"KOOVS",
-      "title2":"Couture Applique Varsity Bomber - Black",
-      "price":  7000,
-      "color1": "black",
-      "color2":"blue"
-    },
-    {
-      "id":29,
+      "id":19,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_ffd0e58e-9261-463e-bde4-43f2e7bca71d.png?v=1676534029&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/foldedpsd_994a1f4f-149a-4672-b1e7-82752013beae.png?v=1677034003&width=360",
       "title1":"KOOVS",
@@ -429,7 +329,7 @@
       "color2":"white"
     },
     {
-      "id":30,
+      "id":20,
       "image1":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_a5ba20c2-c9b6-48d3-baf5-0a7421d7b970.png?v=1676534234&width=360",
       "image2":"https://cdn.shopify.com/s/files/1/0677/1464/6315/products/front_1psd_317e6149-ecce-4f2d-86c0-53f226b1e896.png?v=1677034045&width=360",
       "title1":"KOOVS",
